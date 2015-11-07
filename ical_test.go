@@ -1,4 +1,4 @@
-package ical
+package goical
 
 import (
 	"bytes"
